@@ -2346,6 +2346,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Déstaire](https://destaire.com) `https://destaire.com/mcp`
   [![Déstaire MCP connector](https://glama.ai/mcp/connectors/com.destaire/destaire/badges/score.svg)](https://glama.ai/mcp/connectors/com.destaire/destaire)
   🔓 - A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- [EasyGroupFlights](https://easygroupflights.com/group-flights-mcp/) `https://mcp.easygroupflights.com/mcp`
+  [![EasyGroupFlights MCP connector](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights/badges/score.svg)](https://glama.ai/mcp/connectors/com.easygroupflights/easygroupflights)
+  🔓 - Request group flight quotes for 10+ travellers from a human specialist desk; live fares for smaller parties.
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only data for Polish short-term rental owners: reservations, availability, pricing and reviews.
